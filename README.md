@@ -7,7 +7,7 @@ Route optimizer based on a variant of the Traveling Salesman Problem where:
 - the distance between two consecutive vertices must not exceed a certain threshold value;
 - groups of vertices are predefined and each group must be visited at least once to ensure some geographical diversity.
 
-> More details about the modeling and the solution methods are available [here](https://antcrepin.github.io/projects/flight-route-optimizer).
+> More details about the modeling and the solution methods are available [here](https://antcrepin.github.io/posts/flight-route-optimizer).
 
 <p align="center">
   <img src="./plot/n20_1_cost=91.png" width="50%">
